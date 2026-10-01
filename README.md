@@ -90,6 +90,6 @@ A full-stack learning platform for managing resources, goals, progress, and stud
 
 ## 📫 Connect With Me
 
-* **LinkedIn:** [Harshpreet Singh](https://www.linkedin.com/in/harshpreet-singh-2909a829/)
+* **LinkedIn:** [Harshpreet Singh](https://www.linkedin.com/in/harshpreet-singh-2909a829)
 * **Email:** [harshpreetsingh2643@gmail.com](mailto:harshpreetsingh2643@gmail.com)
 * **GitHub:** [@harshpreet284](https://github.com/harshpreet284)
