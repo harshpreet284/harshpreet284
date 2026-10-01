@@ -82,14 +82,6 @@ A full-stack learning platform for managing resources, goals, progress, and stud
 
 **Tech:** React · Vite · Tailwind CSS · Node.js · Express.js · MongoDB · Mongoose · Gemini API
 
-## 📚 Coursework
-
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Operating Systems
-* Database Management Systems
-* Computer Networks
-
 ## 🎓 Certifications
 
 * Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
